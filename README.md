@@ -11,6 +11,5 @@
 ![images/error.JPG](images/error.JPG)
 ![images/noresults.JPG](images/noresults.JPG)
 
-#### Search for voter ID with pagination
-![images/results.JPG](images/results.JPG)
+
 
