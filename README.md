@@ -1,6 +1,5 @@
 # Election Commission Portal
 
-Hosted: [http://election-commission-voters.herokuapp.com/](http://election-commission-voters.herokuapp.com/)
 
 ### Screenshots:
 
@@ -15,8 +14,3 @@ Hosted: [http://election-commission-voters.herokuapp.com/](http://election-commi
 #### Search for voter ID with pagination
 ![images/results.JPG](images/results.JPG)
 
-#### Voter ID download
-![images/download.JPG](images/download.JPG)
-
-#### Voter ID PDF
-![images/pdf.JPG](images/pdf.JPG)
